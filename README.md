@@ -1,5 +1,5 @@
 
-**Set-up
+## Set-up
 
 1.Create AWS account - FREE tier
 https://aws.amazon.com/free/
@@ -15,7 +15,7 @@ https://wordpress.com/pricing/
  <kbd><img width="533" height="200" src="readme_assets/polly.pgn"></kbd>
 </p>
 
-**Plugin Installation
+## Plugin Installation
 
 4.Install Amazon AI Plugin for WordPress (expanded Amazon Polly Plugin for WordPress)
 https://aws.amazon.com/getting-started/tutorials/add-voice-to-wordpress-polly/
@@ -25,7 +25,7 @@ https://aws.amazon.com/getting-started/tutorials/add-voice-to-wordpress-polly/
  <kbd><img width="600" height="400" src="readme_assets/blog_plugin.pgn"></kbd>
 </p>
 
-**Additional Resources:
+## Additional Resources:
 
 About Amazon Polly - Text to Speech
 https://aws.amazon.com/polly/
