@@ -18,8 +18,9 @@ https://wordpress.com/pricing/<br />
 </p>
 <p align="center">
 photo credit:  https://techiescoops.com/amazon-polly-gets-8-new-voices/ <br />
-</p>
-## Plugin Installation
+</p><br />
+
+## Plugin Installation<br />
 
 4.Install Amazon AI Plugin for WordPress (expanded Amazon Polly Plugin for WordPress)<br />
 https://aws.amazon.com/getting-started/tutorials/add-voice-to-wordpress-polly/ <br />
@@ -27,9 +28,9 @@ https://aws.amazon.com/getting-started/tutorials/add-voice-to-wordpress-polly/ <
 
 <p align="center">
  <kbd><img width="600" height="400" src="/readme_assets/blog_plugin.pgn"></kbd>
-</p>
+</p><br />
 
-## Additional Resources:
+## Additional Resources: <br />
 
 About Amazon Polly - Text to Speech <br />
 https://aws.amazon.com/polly/  <br />
