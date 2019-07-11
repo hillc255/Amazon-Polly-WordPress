@@ -4,10 +4,11 @@
 <br /><br />
 <p align="center">
  <kbd><img width="633" height="300" src="/readme_assets/blog_plugin.png"></kbd>
+ [Click here for video](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
 </p><br /> <br />
 
                                                         
-                                         ![Click here for video](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
+[Click here for video](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
 
 <br />
 ## Set-up
