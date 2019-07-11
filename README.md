@@ -8,9 +8,9 @@
                                                         
 [Click here for video](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
 
+<br /><br />
+## Set-up <br />
 <br />
-## Set-up
-
 1.Create AWS account - FREE tier <br />
 https://aws.amazon.com/free/ <br />
 (credit card required - no charge if usage is within FREE tier)<br />
