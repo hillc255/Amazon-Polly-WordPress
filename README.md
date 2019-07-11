@@ -32,6 +32,7 @@ https://aws.amazon.com/getting-started/tutorials/add-voice-to-wordpress-polly/ <
 
 <p align="center">
 <video src="/readme_assets/polly.mp4" width="320" height="200" controls preload></video>
+ [![Text to Speech Video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/-W9fWViuZz4)
 </p><br />
 
 ## Additional Resources: <br />
