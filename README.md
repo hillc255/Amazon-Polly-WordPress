@@ -31,8 +31,9 @@ photo credit:  https://techiescoops.com/amazon-polly-gets-8-new-voices/ <br />
 https://aws.amazon.com/getting-started/tutorials/add-voice-to-wordpress-polly/ <br />
 
 <p align="center">
-<video src="/readme_assets/polly.mp4" width="320" height="200" controls preload></video>
-[![Text to Speech Video](https://img.youtube.com/vi/v=-W9fWViuZz4&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
+
+[![Watch Video](
+https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)]
 </p><br />
 
 ## Additional Resources: <br />
