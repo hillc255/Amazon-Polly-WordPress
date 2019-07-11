@@ -7,7 +7,7 @@
 </p><br /> <br />
 
                                                         
-                                         [Click here for video](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
+                                         ![Click here for video](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
 
 <br />
 ## Set-up
