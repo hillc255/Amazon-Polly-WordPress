@@ -16,9 +16,9 @@ https://wordpress.com/pricing/<br />
 <p align="center">
  <kbd><img width="533" height="200" src="/readme_assets/polly.pgn"></kbd>
 </p>
-
+<p align="center">
 photo credit:  https://techiescoops.com/amazon-polly-gets-8-new-voices/ <br />
-
+</p>
 ## Plugin Installation
 
 4.Install Amazon AI Plugin for WordPress (expanded Amazon Polly Plugin for WordPress)<br />
