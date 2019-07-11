@@ -19,11 +19,11 @@ https://aws.amazon.com/free/ <br />
 https://wordpress.com/pricing/ <br />
 <br />
 3.Upgrade FREE WordPress to Business for Plugin<br />
-(credit card required - price refunded if cancelled in 30 days)<br />
-
+(credit card required - price refunded if cancelled in 30 days) <br />
+<br />
 <p align="center">
  <kbd><img width="533" height="200" src="/readme_assets/polly.png"></kbd>
-</p>
+</p><br />
 <p align="center">
 photo credit:  https://techiescoops.com/amazon-polly-gets-8-new-voices/ <br />
 </p><br />
