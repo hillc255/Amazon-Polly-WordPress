@@ -1,6 +1,6 @@
 
 # Amazon's AI Plugin for WordPress - Polly Text to Speech
-
+<br /><br />
 <p align="center">
  <kbd><img width="400" height="200" src="/readme_assets/blog_plugin.png"></kbd>
 </p><br />
