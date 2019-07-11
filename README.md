@@ -1,5 +1,9 @@
 
-# Amazon's AI Plugin for WordPress - Polly Text to Speech
+# Amazon's AI Plugin for WordPress Blog - Polly Text to Speech
+
+<p align="center">
+<video src="polly.mp4" width="320" height="200" controls preload></video>
+</p><br />
 
 ## Set-up
 
