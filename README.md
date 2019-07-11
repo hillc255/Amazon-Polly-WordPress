@@ -3,9 +3,9 @@
 
 ## Set-up
 
-1.Create AWS account - FREE tier
-https://aws.amazon.com/free/
-    (credit card required - no charge if usage is within FREE tier)
+1.Create AWS account - FREE tier <br />
+https://aws.amazon.com/free/ <br />
+(credit card required - no charge if usage is within FREE tier)
 
 2.Create FREE WordPress Blog and add 1 blog
 https://wordpress.com/pricing/
