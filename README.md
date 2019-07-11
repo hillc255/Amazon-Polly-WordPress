@@ -7,9 +7,8 @@
 </p><br /> <br />
 
 
-<p style="text-align: center;">
-[Watch video](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
-</p>
+<center>[Watch video](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)</center>
+
 
 ## Set-up
 
