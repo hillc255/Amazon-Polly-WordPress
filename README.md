@@ -1,4 +1,6 @@
 
+# Amazon's AI Plugin for WordPress - Polly Text to Speech
+
 ## Set-up
 
 1.Create AWS account - FREE tier
