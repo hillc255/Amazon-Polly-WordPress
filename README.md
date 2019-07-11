@@ -7,7 +7,7 @@
 </p><br /> <br />
 
 
-<p align="center">
+<p style="text-align: center;">
 [Watch video](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
 </p>
 
