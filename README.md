@@ -2,7 +2,7 @@
 # Amazon's AI Plugin for WordPress - Polly Text to Speech
 
 <p align="center">
-<video src="/readme_assets/polly.mp4" width="320" height="200" controls preload></video>
+ <kbd><img width="400" height="200" src="/readme_assets/blog_plugin.png"></kbd>
 </p><br />
 
 ## Set-up
@@ -28,6 +28,10 @@ photo credit:  https://techiescoops.com/amazon-polly-gets-8-new-voices/ <br />
 
 4.Install Amazon AI Plugin for WordPress (expanded Amazon Polly Plugin for WordPress) <br />
 https://aws.amazon.com/getting-started/tutorials/add-voice-to-wordpress-polly/ <br />
+
+<p align="center">
+ <kbd><video src="/readme_assets/polly.mp4" width="320" height="200" controls preload></video> </kbd>
+</p><br />
 
 
 <p align="center">
