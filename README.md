@@ -7,8 +7,9 @@
 </p><br /> <br />
 
 
-[Watch video and listen to the text to speech recording](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
-
+<p align="center">
+[Watch video](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
+</p>
 
 ## Set-up
 
