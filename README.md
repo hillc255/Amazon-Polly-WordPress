@@ -12,7 +12,7 @@ https://wordpress.com/pricing/
 (credit card required - price refunded if cancelled in 30 days)
 
 <p align="center">
- <kbd><img width="533" height="300" src="readme_assets/polly.pgn"></kbd>
+ <kbd><img width="533" height="200" src="readme_assets/polly.pgn"></kbd>
 </p>
 
 Plugin Installation
