@@ -6,9 +6,10 @@
  <kbd><img width="633" height="300" src="/readme_assets/blog_plugin.png"></kbd>
 </p><br />
 
-<p align="center">
-[Watch video and listen to the text to speech recording][https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be]
-</p><br />
+
+[Watch video and listen to the text to speech recording](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
+
+<p align="center"></p><br />
 
 ## Set-up
 
