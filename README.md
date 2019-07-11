@@ -4,8 +4,7 @@
 <br /><br />
 <p align="center">
  <kbd><img width="633" height="300" src="/readme_assets/blog_plugin.png"></kbd>
-</p><br /> <br />
-
+</p><br />
                                                         
 [Click here for video](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
 
