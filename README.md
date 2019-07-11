@@ -8,7 +8,7 @@
                                                         
 [Click here for video](https://www.youtube.com/watch?v=-W9fWViuZz4&feature=youtu.be)
 
-<br /><br />
+<br />
 ## Set-up <br />
 <br />
 1.Create AWS account - FREE tier <br />
