@@ -16,8 +16,8 @@ https://aws.amazon.com/free/ <br />
 (credit card required - no charge if usage is within FREE tier)<br />
 <br />
 2.Create FREE WordPress Blog and add 1 blog<br />
-https://wordpress.com/pricing/<br />
-
+https://wordpress.com/pricing/ <br />
+<br />
 3.Upgrade FREE WordPress to Business for Plugin<br />
 (credit card required - price refunded if cancelled in 30 days)<br />
 
