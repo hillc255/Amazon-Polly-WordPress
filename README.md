@@ -5,22 +5,24 @@
 
 1.Create AWS account - FREE tier <br />
 https://aws.amazon.com/free/ <br />
-(credit card required - no charge if usage is within FREE tier)
+(credit card required - no charge if usage is within FREE tier)<br />
 
-2.Create FREE WordPress Blog and add 1 blog
-https://wordpress.com/pricing/
+2.Create FREE WordPress Blog and add 1 blog<br />
+https://wordpress.com/pricing/<br />
 
-3.Upgrade FREE WordPress to Business for Plugin
-    (credit card required - price refunded if cancelled in 30 days)
+3.Upgrade FREE WordPress to Business for Plugin<br />
+(credit card required - price refunded if cancelled in 30 days)<br />
 
 <p align="center">
  <kbd><img width="533" height="200" src="readme_assets/polly.pgn"></kbd>
 </p>
 
+photo credit:  https://techiescoops.com/amazon-polly-gets-8-new-voices/ <br />
+
 ## Plugin Installation
 
-4.Install Amazon AI Plugin for WordPress (expanded Amazon Polly Plugin for WordPress)
-https://aws.amazon.com/getting-started/tutorials/add-voice-to-wordpress-polly/
+4.Install Amazon AI Plugin for WordPress (expanded Amazon Polly Plugin for WordPress)<br />
+https://aws.amazon.com/getting-started/tutorials/add-voice-to-wordpress-polly/ <br />
 
 
 <p align="center">
@@ -29,23 +31,19 @@ https://aws.amazon.com/getting-started/tutorials/add-voice-to-wordpress-polly/
 
 ## Additional Resources:
 
-About Amazon Polly - Text to Speech
-https://aws.amazon.com/polly/
+About Amazon Polly - Text to Speech <br />
+https://aws.amazon.com/polly/  <br />
 
-Amazon AI Plugin for WordPress
-https://wordpress.org/plugins/amazon-polly/
+Amazon AI Plugin for WordPress <br />
+https://wordpress.org/plugins/amazon-polly/  <br />
 
-YouTube tutorial on Amazon Polly and WordPress
-https://www.youtube.com/watch?v=j77ZwRHh3BE
+YouTube tutorial on Amazon Polly and WordPress <br />
+https://www.youtube.com/watch?v=j77ZwRHh3BE  <br />
 
-Amazon Polly WordPress plugin code on GitHub
-https://github.com/awslabs/amazon-polly-wordpress-plugin
-
-
+Amazon Polly WordPress plugin code on GitHub <br />
+https://github.com/awslabs/amazon-polly-wordpress-plugin <br />
 
 
 
-
-photo credit:  https://techiescoops.com/amazon-polly-gets-8-new-voices/
 
 
