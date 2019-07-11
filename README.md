@@ -14,7 +14,7 @@ https://wordpress.com/pricing/<br />
 (credit card required - price refunded if cancelled in 30 days)<br />
 
 <p align="center">
- <kbd><img width="533" height="200" src="/readme_assets/polly.png"></kbd>
+ <kbd><img width="433" height="100" src="/readme_assets/polly.png"></kbd>
 </p>
 <p align="center">
 photo credit:  https://techiescoops.com/amazon-polly-gets-8-new-voices/ <br />
@@ -27,7 +27,7 @@ https://aws.amazon.com/getting-started/tutorials/add-voice-to-wordpress-polly/ <
 
 
 <p align="center">
- <kbd><img width="600" height="400" src="/readme_assets/blog_plugin.png"></kbd>
+ <kbd><img width="400" height="200" src="/readme_assets/blog_plugin.png"></kbd>
 </p><br />
 
 ## Additional Resources: <br />
